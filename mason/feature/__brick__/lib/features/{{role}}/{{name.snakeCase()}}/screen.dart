@@ -1,4 +1,4 @@
-import 'package:sukientotapp/core/utils/import/global.dart';
+import 'package:goodfoodapp/core/utils/import/global.dart';
 import 'controller.dart';
 
 class {{name.pascalCase()}}Screen extends  GetView<{{name.pascalCase()}}Controller> {

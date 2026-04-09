@@ -1,5 +1,5 @@
 {{#use_repository}}
-import 'package:sukientotapp/domain/repositories/{{role}}/{{name.snakeCase()}}_repository.dart';
+import 'package:goodfoodapp/domain/repositories/{{role}}/{{name.snakeCase()}}_repository.dart';
 
 class {{name.pascalCase()}}RepositoryImpl implements {{name.pascalCase()}}Repository {
   // Implement repository methods here

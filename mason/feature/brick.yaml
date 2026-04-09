@@ -21,7 +21,7 @@ vars:
     default: login
   role:
     type: string
-    description: Role of the module (client, partner, or common)
+    description: Role of the module (client, restaurant, shipper or common)
     default: common
   use_repository:
     type: boolean

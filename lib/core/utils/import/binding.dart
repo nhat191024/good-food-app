@@ -1,0 +1,1 @@
+export 'package:goodfoodapp/features/common/splash/binding.dart';
